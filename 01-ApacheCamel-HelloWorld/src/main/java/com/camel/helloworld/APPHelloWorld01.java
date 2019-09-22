@@ -15,7 +15,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * 郑重其事的写下 helloworld for Apache Camel
+ * 2郑重其事的写下 helloworld for Apache Camel
  */
 public class APPHelloWorld01 extends RouteBuilder {
 
