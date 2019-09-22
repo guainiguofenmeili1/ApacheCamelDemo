@@ -10,6 +10,7 @@ import org.apache.log4j.PropertyConfigurator;
  * @author CYX
  * @time 2017年12月15日下午3:23:11
  */
+
 public class ChoiceCamel {
 
 	public static void main(String[] args) throws Exception {

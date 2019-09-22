@@ -11,6 +11,7 @@ import org.apache.commons.io.IOUtils;
 
 import java.io.InputStream;
 
+
 public class ChoiceCamelRouteBuilder extends RouteBuilder {
 
 	@Override
